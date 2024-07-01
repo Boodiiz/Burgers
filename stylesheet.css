@@ -1,0 +1,65 @@
+/* shared style */
+
+*
+{
+  box-sizing: border-box;
+}
+
+body
+{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+.clear-fix
+{
+  clear: both;
+}
+
+
+/* menu section */
+
+h1
+{
+  text-align: center;
+}
+span
+{
+  font-size: 60px;
+  color: orange;
+}
+
+div.container
+{
+  width: 90%;
+  margin-top: 30px;
+  margin-inline: auto;
+}
+
+div.menu
+{
+  width: 100%;
+}
+img
+{
+  width: 100%;
+  border-radius: 50%;
+  border: 5px green solid;
+
+}
+div.item
+{
+  width: 25%;
+  text-align: center;
+  float: left;
+  
+  padding-inline: 15px;
+}
+
+h2
+{
+  font-size: 30px;
+  text-align: center;
+}
